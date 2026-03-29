@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="902b58f1-1ea5-484d-a766-a0e10390717c" name="Changes" comment="reload the files">
+      <change beforePath="$PROJECT_DIR$/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Airplane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 1 Codebase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment 1 Codebase.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuyTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuyTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChooseTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ChooseTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlightCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FlightCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Passenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Passenger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TicketCollection.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/XiyuCao0717/FIT5171_S1_2026_Group5_A1.git",
+    "accountId": "ba14eccb-d42c-4368-9a45-8ca2b2d84624"
+  }
+}]]></component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="reload the files">
+      <option name="closed" value="true" />
+      <created>1774820540137</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774820540137</updated>
+    </task>
+    <task id="LOCAL-00002" summary="reload the files">
+      <option name="closed" value="true" />
+      <created>1774820550430</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774820550430</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="reload the file" />
+    <MESSAGE value="reload the files" />
+    <option name="LAST_COMMIT_MESSAGE" value="reload the files" />
+  </component>
+</project>
